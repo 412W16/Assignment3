@@ -1,3 +1,4 @@
+package src;
 //http://www.binarytides.com/java-socket-programming-tutorial/
 import java.io.*;
 import java.util.Map;

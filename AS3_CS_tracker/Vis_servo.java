@@ -15,6 +15,7 @@ import javax.swing.JFrame;
 import lejos.remote.nxt.BTConnection;
 import lejos.remote.nxt.BTConnector;
 import lejos.remote.nxt.NXTConnection;
+import src.TrackerReader;
 
 public class Vis_servo extends JFrame {
 	public static JButton quit, connect;
